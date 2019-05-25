@@ -1,2 +1,3 @@
 # Micropython-ESP32-OTA
-micropython over the air updater
+-------------------------------
+Example code for updating firmware over the air
